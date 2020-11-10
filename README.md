@@ -2,7 +2,9 @@
 
 <img src="FRA2210-A2020/img/jerry.jpg" width="8%" align="left"/>
 
-## FRA2210-A2020 - Index
+## FRA2210-A2020 
+
+### Index
 
 - [Cartographie subjective numérique](https://mmellet.github.io/Cartographie/FRA2210-A2020/AtCaSuNum.html#/)
   - [Cartographie subjective](https://mmellet.github.io/Cartographie/FRA2210-A2020/AtCaSuNum.html#/2) 
